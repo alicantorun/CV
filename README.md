@@ -1,3 +1,6 @@
 <h2>CV Website Project</h2>
-<p>A very first sample project of mine</p>
-<p>purely HTML5 practice</p>
+<ul>
+<li>A very first sample project of mine</li>
+<li>purely HTML5 practice</li>
+<li>Just for practice purposes -> Informations provided are incomplete</li>
+</ul>
